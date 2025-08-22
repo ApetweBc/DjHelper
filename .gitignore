@@ -1,0 +1,44 @@
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.ico
+*.svg
+*.webp
+
+# Audio/Storage files
+*.mp3
+*.mp4
+*.wav
+*.aac
+*.ogg
+*.flac
+*.m4a
+*.wma
+*.avi
+*.mkv
+*.mov
+*.wmv
+
+# Temporary storage
+*.tmp
+*.temp
+*.cache
+
+# Storage related
+*.iso
+*.bin
+*.dat
+*.bak
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# System files
+.DS_Store
+Thumbs.db
